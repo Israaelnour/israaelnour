@@ -15,12 +15,12 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Engaged in cybersecurity challenges on TryHackMe and Hack The Box.          | <a href="https://google.com">Detection Lab</a>|
+| Conducted penetration testing on Kioptrix Level 1 from Vulnhub. | <a href="https://google.com">Detection Lab</a>|
+| Explored and analyzed network traffic using Wireshark.  | SOC Automation Lab|
+| Managed and operated Kali Linux for various security tasks. | SOC Automation Lab|
+| ...... | SOC Automation Lab|
+| ...... | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
