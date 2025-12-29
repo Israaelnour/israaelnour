@@ -36,7 +36,7 @@ I am a passionate Freelance Developer dedicated to building clean and functional
 ### ✨ Personal Touch & Fun Facts
 
 - 📖 **Beyond Coding:** I enjoy reading novels and self-development books. I'm also passionate about daily journaling and learning new languages.
-- 💡 **Fun Fact:** I can stay in a library reading for 6+ hours straight, or study for 10 hours non-stop when it's a topic I love!
+- 💡 **Fun Fact:** I can stay in a library reading for 6 hours straight, or study for 10 hours non-stop when it's a topic I love!
 
 ---
 
