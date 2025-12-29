@@ -1,60 +1,51 @@
-# Hello, I'm Israa
-<a href="https://www.linkedin.com/in/israa-elnour-335463344/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi there, I'm Israa! 👋
 
-[Brief Introduction]
+### 👩‍💻 Freelance Web Developer | Lifelong Learner
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a passionate Freelance Developer dedicated to building clean and functional web experiences. I believe in the power of continuous growth and self-development to solve complex problems through code.
 
-## Objective
-[Provide Objective]
+---
 
-"Cybersecurity enthusiast showcasing hands-on projects in threat analysis, security automation, and ethical hacking."
+### 🚀 About Me
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+- ⚡ **What defines me:** Fast learner, detail-oriented, and highly adaptable to new technologies.
+- 📚 **Currently learning:** Deep diving into **JavaScript** to build more interactive and dynamic web applications.
+- 🛠️ **Current project:** Building my **Personal Portfolio** to showcase my journey and technical skills.
+- 🎯 **Goal:** Expanding my freelance career and contributing to impactful web projects.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Engaged in cybersecurity challenges on TryHackMe and Hack The Box.          | <a href="https://google.com">Detection Lab</a>|
-| Conducted penetration testing on Kioptrix Level 1 from Vulnhub. | <a href="https://google.com">Detection Lab</a>|
-| Explored and analyzed network traffic using Wireshark.  | SOC Automation Lab|
-| Managed and operated Kali Linux for various security tasks. | SOC Automation Lab|
-| ...... | SOC Automation Lab|
-| ...... | SOC Automation Lab|
+---
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### 🛠️ Technical Skills
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### 📈 GitHub Stats
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Israa's GitHub Stats" />
+</p>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+---
+
+### ✨ Personal Touch & Fun Facts
+
+- 📖 **Beyond Coding:** I enjoy reading novels and self-development books. I'm also passionate about daily journaling and learning new languages.
+- 💡 **Fun Fact:** I can stay in a library reading for 6+ hours straight, or study for 10 hours non-stop when it's a topic I love!
+
+---
+
+### 📫 Connect with Me
+
+- 📧 **Email:** [israaelnour1@gmail.com](mailto:israaelnour1@gmail.com)
+- 💼 **LinkedIn:** [In/israaelnour](https://www.linkedin.com/in/israaelnour/)
+
+---
+<p align="center">
+  "Code is where logic meets creativity." ✨
+</p>
