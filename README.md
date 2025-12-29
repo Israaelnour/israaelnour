@@ -25,12 +25,6 @@ I am a passionate Freelance Developer dedicated to building clean and functional
 
 ---
 
-### 📈 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Israaelnour)](https://github.com/Israaelnour/github-readme-stats)
-
----
-
 ### ✨ Personal Touch & Fun Facts
 
 - 📖 **Beyond Coding:** I enjoy reading novels and self-development books. I'm also passionate about daily journaling and learning new languages.
