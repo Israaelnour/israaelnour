@@ -27,9 +27,7 @@ I am a passionate Freelance Developer dedicated to building clean and functional
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israaelnour&show_icons=true&theme=radical" alt="israa's GitHub Stats" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiIsraaelnour=anuraghazra)](https://github.com/Israaelnour/github-readme-stats)
 
 ---
 
