@@ -1,4 +1,4 @@
-# Hi there, I'm TheFinalBit 👋 
+# Hi there, I'm IsraaWaveTech 👋 
 
 ### 💻 Aspiring Security Researcher & Analyst | Low-Level Learner
 
