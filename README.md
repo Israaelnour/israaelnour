@@ -39,12 +39,12 @@ I am an enthusiast and a hands-on learner with a deep interest in system virtual
 If you want to follow my journey in cybersecurity, binary exploitation, and technical insights, feel free to connect with me on Threads:
 
 <p align="left">
-  <a href="https://www.threads.net/@the.final.bit" target="_blank">
+  <a href="https://www.threads.com/@israa.wave.tech" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
   </a>
 </p>
 
-> **Username:** `@the.final.bit`
+> **Username:** `@israa.wave.tech`
 
 ---
 <p align="center">
