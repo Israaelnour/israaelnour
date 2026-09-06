@@ -1,8 +1,8 @@
-# Hi there, I'm IsraaWaveTech 👋 
+# Hi there, I'm Israa Elnour 👋 
 
-### 💻 Aspiring Security Researcher & Analyst | Low-Level Learner
+### 💻 Junior Cybersecurity & Technical Operations
 
-I am an enthusiast and a hands-on learner with a deep interest in system virtualization, software troubleshooting, and cybersecurity basics. I am currently dedicated to exploring beneath the surface of systems to understand how they work, practicing basic reverse-engineering challenges, and building a solid foundation in digital logic and problem-solving.
+I am an enthusiast and a hands-on learner with a deep interest in system virtualization, software troubleshooting, and cybersecurity basics. I am currently dedicated to exploring beneath the surface of systems to understand how they work, and building a solid foundation in digital logic and problem-solving.
 
 ---
 
@@ -10,11 +10,11 @@ I am an enthusiast and a hands-on learner with a deep interest in system virtual
 
 ⚡ **What defines me:** A deep-work practitioner, highly detail-oriented, with an unyielding patience for solving complex technical puzzles.
 
-📚 **Currently learning:** Low-level software engineering (C Programming), Assembly language, and Advanced Reverse Engineering.  
+📚 **Currently learning:** Hands-on Network Penetration Testing (PNPT track), Active Directory Security, and Linux/Windows System Administration.
 
-🛠️ **Current project:** Building a dedicated security research environment and maintaining my personal technical reference and documentation.
+🛠️ **Current project:** Building a dedicated Security & Testing Lab and documenting Technical Operations & Troubleshooting workflows.
 
-🎯 **Goal:** Mastering Offensive Security and Reverse Engineering, while bridging the gap between technical logic and creative execution.
+🎯 **Goal:** Mastering Offensive Security and Technical Operations, while bridging the gap between technical logic and structured problem-solving.
 
 ### 🛠️ Technical Toolkit
 
@@ -38,14 +38,10 @@ I am an enthusiast and a hands-on learner with a deep interest in system virtual
 
 If you want to follow my journey in cybersecurity, binary exploitation, and technical insights, feel free to connect with me on Threads:
 
-<p align="left">
-  <a href="https://www.threads.com/@israa.wave.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
-  </a>
-</p>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/israaelnour/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/israa.wave.tech/)
-> **Username:** `@israa.wave.tech`
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/israa_elnour/?hl=en)
+> **Username:** `@israa_elnour`
 
 ---
 <p align="center">
